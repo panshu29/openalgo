@@ -1,0 +1,4 @@
+conda create -p ./ptenv  python=3.11
+conda activate ./ptenv
+pip install -r requirements.txt
+python app.py
