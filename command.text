@@ -1,4 +1,6 @@
 conda create -p ./ptenv  python=3.11
-conda activate ./ptenv
+052329
 pip install -r requirements.txt
 python app.py
+
+ conda activate ./ptenv
